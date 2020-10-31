@@ -1,0 +1,14 @@
+.navbar-list {
+    display: flex;
+    list-style: none;
+
+    a {
+        margin: 0.5rem;
+        text-decoration: none;
+    }
+}
+
+.nav-active {
+    color: #fff;
+    text-decoration: underline;
+}
